@@ -10,7 +10,7 @@
 |     5    | Bluetooth module           | HM-10 BLE 4.0                | nieuw | €3.14 | 1 | €3.14 |
 |     6    | Terminal Block Connector   | KF301 (50x)                  | nieuw | €0.88 | 1 | €0.88 |
 |     7    | Mini tuimelschakelaar      | MTS-102 103 202 203          | nieuw | €2.90 | 1 | €2.90 |
-|     8    | voegingsmodule             | Mini DC-DC 12-24V naar 5V 3A | nieuw | €1.99 | 1 | €1.99 |
+|     8    | voedingsmodule             | Mini DC-DC 12-24V naar 5V 3A | nieuw | €1.99 | 1 | €1.99 |
 |     9    | D-as rubberen band         | 44mm met N20 reductiemotor   | nieuw | €0.26 | 2 | €0.52 |
 |    10    | tandwiel reductiemotor     | GA12-N20 DC 300rpm 6V 12V    | nieuw | €1.80 | 2 | €3.60 |
 |    11    | Bullet connectors stekkers | XT60                         | nieuw | €1.19 | 2 | €2.38 |
