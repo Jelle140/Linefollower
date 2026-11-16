@@ -1,7 +1,5 @@
 # H-Bridge proof of concept
 
-# H-Bridge proof of concept
-
 Deze proof of concept toont aan dat de TB6612FNG dubbele H-brug correct kan worden aangestuurd door de STM32F103C8T6.
 
 ## Doel
